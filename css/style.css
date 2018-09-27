@@ -125,7 +125,8 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #fff
+  background-color: #fff;
+  z-index: 1;
 }
 section {
   padding: 20px;
