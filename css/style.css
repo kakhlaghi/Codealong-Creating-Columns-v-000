@@ -123,6 +123,7 @@ box-sizing: border-box;
 header {
   position: fixed;
   top: 0;
+  left: 0;
   
 }
 section {
