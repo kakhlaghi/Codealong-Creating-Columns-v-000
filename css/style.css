@@ -127,5 +127,6 @@ section {
 
 /* social */
 #social {
-  position
+  position: fixed;
+  
 }
