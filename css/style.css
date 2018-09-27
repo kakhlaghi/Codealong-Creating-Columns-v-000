@@ -122,6 +122,7 @@ box-sizing: border-box;
 /* SECTIONS */
 header {
   position: fixed;
+  top: 0;
   
 }
 section {
